@@ -5,7 +5,7 @@ public class App {
 	public static void main(String[] args) {
 		Cliente francisco = new Cliente();
 		francisco.setNome("Francisco");
-		francisco.setTelefone("21982856985");
+		francisco.setTelefone("21982856986");
 		francisco.setEmail("francisco.santana@edu.sc.senai.br");
 		System.out.println(francisco);
 		
